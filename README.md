@@ -1,2 +1,2 @@
 # Evidencia-Aileen-Cuevas
-Actividades semana tec 
+Actividades semana tec ejemplo 
